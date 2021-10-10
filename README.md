@@ -5,5 +5,5 @@ Students can Register as a Participant, Mentor or Project Admin.The students wil
         
 Top Contributor of all project would be given prizes and every participant would be given a participation certificates which you canuse to make a strong Resume. Mentor and Project Admins would be given LOR(Letter of recommendation), etc. Happy Hacking!!!!!
 <h3 align="center">
-    <a href="https://discord.gg/fBbuzAq6eY">👋 join our discord community <strong>RWOC WEBSITE</strong> </a>
+    <a href="https://discord.gg/fBbuzAq6eY">👋 join our discord community <strong>Robotics club</strong> </a>
     </h3>

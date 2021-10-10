@@ -16,6 +16,7 @@ a {
 }
 
 body {
+    background: radial-gradient(circle at bottom, grey, white);
     padding-top: 120px;
 }
 

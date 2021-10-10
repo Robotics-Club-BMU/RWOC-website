@@ -9,3 +9,7 @@ $(function() {
 $(function() {
     $("#footer-placeholder").load("footer.html");
 });
+
+$(function() {
+    $("#about-us").load("about-us.html"); 
+});

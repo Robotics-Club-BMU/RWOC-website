@@ -11,5 +11,5 @@ $(function() {
 });
 
 $(function() {
-    $("#about-us").load("about-us.html"); 
+    $("#about-us").load("about-us.html");
 });

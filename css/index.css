@@ -19,6 +19,8 @@ body {
     padding-top: 120px;
 }
 
-.name:hover{
+.rwoc:hover{
     color: white;
+    background: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
 }

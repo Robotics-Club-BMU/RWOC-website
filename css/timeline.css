@@ -9,6 +9,11 @@ body {
 
 /* Edit this to change the colour of title  */
 
+h2 {
+    color: #002E63;
+    font-weight: bold;
+}
+
 .title {
     position: relative;
     margin-top: 30px;

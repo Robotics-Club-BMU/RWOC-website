@@ -14,3 +14,11 @@ a i {
 .fab#social {
     color: white;
 }
+
+.fab:hover {
+    transform: scale(1.25);
+}
+
+.mb-4 {
+    margin-bottom: 0.75rem!important;
+}

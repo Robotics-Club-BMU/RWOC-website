@@ -13,3 +13,7 @@ $(function() {
 $(function() {
     $("#about-us").load("about-us.html");
 });
+
+$(function() {
+    $("#register-placeholder").load("registration.html");
+});

@@ -1,34 +1,39 @@
 img {
-    pointer-events: none;
+  pointer-events: none;
 }
 
 #about-us {
-    color: white;
-    padding: 1.8rem;
+  color: white;
+  padding: 1.8rem;
 }
 
 .about_us-content {
-    color: black;
-    font-size: 1.4rem;
+  color: black;
+  font-size: 1.4rem;
+  text-align: left;
 }
 
-.row{
-    padding: 5%;
+.row {
+  padding: 5%;
 }
 
 .col {
-    align-items: center;
-    line-height: 1.8rem;
-    text-align: center;
+  align-items: center;
+  line-height: 1.8rem;
+  text-align: center;
 }
 
 .col-left {
-    padding-top: 1rem;
-    background-color: #f3f7ff;
+  padding-top: 1rem;
+  background-color: #f3f7ff;
 }
 
 .heading {
-    padding: 3%;
-    color: #002E63;
-    font-weight: bold;
+  padding: 3%;
+  color: #002e63;
+  font-weight: bold;
+}
+.coder_img {
+  margin-top: 15%;
+  margin-left: 10%;
 }

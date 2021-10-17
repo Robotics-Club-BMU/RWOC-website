@@ -18,3 +18,39 @@ nav {
 a {
     color: white;
 }
+
+@media (max-width: 1045px) {
+    .fas {
+        display: none;
+    }
+}
+
+@media (max-width: 947px) {
+    .fas {
+        display: none;
+    }
+    .nav-item {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 883px) {
+    .fas {
+        display: none;
+    }
+    .nav-item {
+        font-size: 14px;
+    }
+    .rwoc {
+        font-size: 24px!important;
+    }
+}
+
+@media (max-width: 446px) {
+    .rwoc {
+        display: hidden;
+    }
+    navbar img {
+        display: hidden;
+    }
+}

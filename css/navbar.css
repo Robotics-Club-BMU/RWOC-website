@@ -1,0 +1,56 @@
+nav {
+    background-color: #002E63;
+    color: white;
+    font-size: 18px;
+}
+
+.navbar-brand .navbar-nav .nav-item.active .nav-link,
+.navbar-nav .nav-item:hover .nav-link {
+    color: #002E63;
+    background-color: white;
+    border-radius: 13px;
+}
+
+.navbar-toggler-icon {
+    background-image: url("../static/images/menu.png");
+}
+
+a {
+    color: white;
+}
+
+@media (max-width: 1045px) {
+    .fas {
+        display: none;
+    }
+}
+
+@media (max-width: 947px) {
+    .fas {
+        display: none;
+    }
+    .nav-item {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 883px) {
+    .fas {
+        display: none;
+    }
+    .nav-item {
+        font-size: 14px;
+    }
+    .rwoc {
+        font-size: 24px!important;
+    }
+}
+
+@media (max-width: 446px) {
+    .rwoc {
+        display: hidden;
+    }
+    navbar img {
+        display: hidden;
+    }
+}
